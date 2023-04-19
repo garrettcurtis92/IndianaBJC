@@ -1,4 +1,4 @@
--  Hi, I’m @IndianaBJC
+-  Hi, I’m @garrettcurtis92
 - <hr>
 -  I’m interested in Web and App Development
 - <hr>
